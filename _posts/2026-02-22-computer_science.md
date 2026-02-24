@@ -2,7 +2,7 @@
 layout: post
 title: "기초적인 컴퓨터 과학"
 date: 2026-02-22
-categories: [c,computer science]
+categories: [c]
 tags: [c,computer science]
 ---
 ###### 이 글은 씹어먹는 C언어의 강의를 공부용으로 정리하고 내용을 추가하여 올린 것입니다.
